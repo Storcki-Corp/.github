@@ -1,4 +1,4 @@
-![Welcome to Storcki Corp!](banner.png)
+![Welcome to Storcki Corp!](../banner.png)
 
 ## Bienvenue chez Storcki Corp.
 
